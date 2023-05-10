@@ -40,7 +40,7 @@
 
 ## Font Family:-
 
-### 1.
+1.
 `cascadia code',Consolas, 'Courier New', monospace`
 > Add it in font setting 
 
